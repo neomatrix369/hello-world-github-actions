@@ -1,4 +1,4 @@
-worflow "New workflow" {
+workflow "New workflow" {
 	on = "push"
 	resolves = ["Hello World"]
 }
