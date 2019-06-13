@@ -8,5 +8,5 @@ action "Hello World" {
 	env = {
 		MY_NAME = "Mani"
 	}
-	args "\"Hello world, I'm $MY_NAME!\""
+	args = "\"Hello world, I'm $MY_NAME!\""
 }
